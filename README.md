@@ -1,13 +1,13 @@
 ## Vision-based Navigation
 
-This code is a part of the practical course "Vision-based Navigation" (IN2106) taught at the Technical University of Munich.
+This code is a part of the practical course ["Vision-based Navigation" (IN2106)](https://vision.in.tum.de/teaching/ws2020/visnav_ws2020) taught at the Technical University of Munich.
 
 It was originally developed for the winter term 2018. The latest iteration is winter term 2020.
 
 The authors are Vladyslav Usenko, Nikolaus Demmel and David Schubert.
 
 ### Location of my implemented code
-This is the individual exercise of the practical. My implemented code of each exercise is written inside a comment block with a title `TASK SHEET X`, where X is the number of exercise sheet (1~5).
+This is the individual exercise of the practical course. My implemented code of each exercise is written inside a comment block with a title `TASK SHEET X`, where X is the number of exercise sheet (1~5).
 
 ### License
 
